@@ -46,12 +46,6 @@
 
 ---
 
-### 💻 Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JANIKSHA-M&layout=compact&theme=tokyonight&hide_border=true" />
-
----
-
 ### ✨ Thanks for visiting my profile!
 
 ⭐ Feel free to explore my repositories and connect with me!
