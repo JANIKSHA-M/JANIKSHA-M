@@ -10,7 +10,13 @@
 
 ### 🛠️ Languages and Tools
 
-<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react,nodejs,fastapi,mysql,aws,git,github,vscode />
+<
+<h2 align="center">🛠️ Languages and Tools</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react,nodejs,fastapi,django,mongodb,mysql,aws,git,github,vscode&perline=8" />
+</p>
+
 
 ---
 
