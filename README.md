@@ -3,7 +3,8 @@
 
 # Hii There 👋 I'm JANIKSHA M!
 
-### 🚀 GenAI Developer | 💻Full-Stack Developer| 🐍 Python Developer | 💻 C++ Programmer
+### 🚀 GenAI Developer | 💻Full-Stack Developer| 🐍 Python Developer | 
+💻 C++ Programmer
 
 ---
 
